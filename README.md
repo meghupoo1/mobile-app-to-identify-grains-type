@@ -34,3 +34,9 @@ streamlit run "E:\ml project\streamlit_app.py"
 - Images are resized to `64x64` and converted to grayscale.
 - `GaussianNB` is used for classification.
 - A confusion matrix and classification report are displayed.
+
+
+## team members name 
+meghashree KUB24CSE648
+poornima   KUB24CSE661
+shwetha    KUB24CSE681
